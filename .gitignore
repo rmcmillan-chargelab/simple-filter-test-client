@@ -1,0 +1,11 @@
+/package-lock.json
+/.idea/**
+/shelf/
+/workspace.xml
+node_modules
+build
+npm-debug.log
+.nyc
+.env
+.DS_Store
+*.iml
