@@ -1,0 +1,20 @@
+{
+  "name": "simple-filter-test-client",
+  "version": "1.0.0",
+  "description": "Client to test QS filter API functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "simple-filter-test-client"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "qs": "^6.11.2"
+  }
+}
